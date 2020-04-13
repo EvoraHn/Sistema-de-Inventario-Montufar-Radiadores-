@@ -1,0 +1,221 @@
+F:\Clases Unicah\Programación\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe.config
+F:\Clases Unicah\Programación\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe
+F:\Clases Unicah\Programación\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.pdb
+F:\Clases Unicah\Programación\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.csprojAssemblyReference.cache
+F:\Clases Unicah\Programación\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Properties.Resources.resources
+F:\Clases Unicah\Programación\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.GenerateResource.cache
+F:\Clases Unicah\Programación\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.exe
+F:\Clases Unicah\Programación\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.pdb
+F:\Clases Unicah\Programación\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Inventario.resources
+F:\Clases Unicah\Programación\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Compras.resources
+F:\Clases Unicah\Programación\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Categoria.resources
+F:\Clases Unicah\Programación\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Proveedores.resources
+D:\Clases Unicah\Programación\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe.config
+D:\Clases Unicah\Programación\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe
+D:\Clases Unicah\Programación\Sistema de Inventario\Sistema de Inventario\bin\Debug\Sistema de Inventario.pdb
+D:\Clases Unicah\Programación\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.csprojAssemblyReference.cache
+D:\Clases Unicah\Programación\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Categoria.resources
+D:\Clases Unicah\Programación\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Compras.resources
+D:\Clases Unicah\Programación\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Form1.resources
+D:\Clases Unicah\Programación\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Inventario.resources
+D:\Clases Unicah\Programación\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.formMenu.resources
+D:\Clases Unicah\Programación\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Properties.Resources.resources
+D:\Clases Unicah\Programación\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Proveedores.resources
+D:\Clases Unicah\Programación\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Ventas.resources
+D:\Clases Unicah\Programación\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.GenerateResource.cache
+D:\Clases Unicah\Programación\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.exe
+D:\Clases Unicah\Programación\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema de Inventario.pdb
+F:\Clases Unicah\Programación\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Form1.resources
+F:\Clases Unicah\Programación\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Menu.resources
+F:\Clases Unicah\Programación\Sistema de Inventario\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Ventas.resources
+C:\Users\Eliab Evora\Desktop\Progra\Sistema de Inventario\obj\Debug\Sistema de Inventario.csprojAssemblyReference.cache
+C:\Users\Eliab Evora\Desktop\Progra\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Categoria.resources
+C:\Users\Eliab Evora\Desktop\Progra\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Compras.resources
+C:\Users\Eliab Evora\Desktop\Progra\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Inventario.resources
+C:\Users\Eliab Evora\Desktop\Progra\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Menu.resources
+C:\Users\Eliab Evora\Desktop\Progra\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Properties.Resources.resources
+C:\Users\Eliab Evora\Desktop\Progra\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Proveedores.resources
+C:\Users\Eliab Evora\Desktop\Progra\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Ventas.resources
+C:\Users\Eliab Evora\Desktop\Progra\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.GenerateResource.cache
+C:\Users\Eliab Evora\Desktop\Progra\Sistema de Inventario\obj\Debug\Sistema de Inventario.exe
+C:\Users\Eliab Evora\Desktop\Progra\Sistema de Inventario\obj\Debug\Sistema de Inventario.pdb
+C:\Users\Eliab Evora\Desktop\Progra\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Producto.resources
+C:\Users\Eliab Evora\Desktop\Progra\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe.config
+C:\Users\Eliab Evora\Desktop\Progra\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe
+C:\Users\Eliab Evora\Desktop\Progra\Sistema de Inventario\bin\Debug\Sistema de Inventario.pdb
+C:\Users\Eliab Evora\Desktop\Progra\Repositorio\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe.config
+C:\Users\Eliab Evora\Desktop\Progra\Repositorio\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe
+C:\Users\Eliab Evora\Desktop\Progra\Repositorio\Sistema de Inventario\bin\Debug\Sistema de Inventario.pdb
+C:\Users\Eliab Evora\Desktop\Progra\Repositorio\Sistema de Inventario\obj\Debug\Sistema de Inventario.csprojAssemblyReference.cache
+C:\Users\Eliab Evora\Desktop\Progra\Repositorio\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Categoria.resources
+C:\Users\Eliab Evora\Desktop\Progra\Repositorio\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Compras.resources
+C:\Users\Eliab Evora\Desktop\Progra\Repositorio\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Inventario.resources
+C:\Users\Eliab Evora\Desktop\Progra\Repositorio\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Menu.resources
+C:\Users\Eliab Evora\Desktop\Progra\Repositorio\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Producto.resources
+C:\Users\Eliab Evora\Desktop\Progra\Repositorio\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Properties.Resources.resources
+C:\Users\Eliab Evora\Desktop\Progra\Repositorio\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Proveedores.resources
+C:\Users\Eliab Evora\Desktop\Progra\Repositorio\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Ventas.resources
+C:\Users\Eliab Evora\Desktop\Progra\Repositorio\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.GenerateResource.cache
+C:\Users\Eliab Evora\Desktop\Progra\Repositorio\Sistema de Inventario\obj\Debug\Sistema de Inventario.exe
+C:\Users\Eliab Evora\Desktop\Progra\Repositorio\Sistema de Inventario\obj\Debug\Sistema de Inventario.pdb
+C:\Users\Eliab Evora\Desktop\DesarrolloP\DesarrolloSoftware\Repositorio\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe.config
+C:\Users\Eliab Evora\Desktop\DesarrolloP\DesarrolloSoftware\Repositorio\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe
+C:\Users\Eliab Evora\Desktop\DesarrolloP\DesarrolloSoftware\Repositorio\Sistema de Inventario\bin\Debug\Sistema de Inventario.pdb
+C:\Users\Eliab Evora\Desktop\DesarrolloP\DesarrolloSoftware\Repositorio\Sistema de Inventario\obj\Debug\Sistema de Inventario.csprojAssemblyReference.cache
+C:\Users\Eliab Evora\Desktop\DesarrolloP\DesarrolloSoftware\Repositorio\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Categoria.resources
+C:\Users\Eliab Evora\Desktop\DesarrolloP\DesarrolloSoftware\Repositorio\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Compras.resources
+C:\Users\Eliab Evora\Desktop\DesarrolloP\DesarrolloSoftware\Repositorio\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Inicio.resources
+C:\Users\Eliab Evora\Desktop\DesarrolloP\DesarrolloSoftware\Repositorio\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Inventario.resources
+C:\Users\Eliab Evora\Desktop\DesarrolloP\DesarrolloSoftware\Repositorio\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Menu.resources
+C:\Users\Eliab Evora\Desktop\DesarrolloP\DesarrolloSoftware\Repositorio\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Producto.resources
+C:\Users\Eliab Evora\Desktop\DesarrolloP\DesarrolloSoftware\Repositorio\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Properties.Resources.resources
+C:\Users\Eliab Evora\Desktop\DesarrolloP\DesarrolloSoftware\Repositorio\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Proveedores.resources
+C:\Users\Eliab Evora\Desktop\DesarrolloP\DesarrolloSoftware\Repositorio\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Ventas.resources
+C:\Users\Eliab Evora\Desktop\DesarrolloP\DesarrolloSoftware\Repositorio\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.GenerateResource.cache
+C:\Users\Eliab Evora\Desktop\DesarrolloP\DesarrolloSoftware\Repositorio\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.CoreCompileInputs.cache
+C:\Users\Eliab Evora\Desktop\DesarrolloP\DesarrolloSoftware\Repositorio\Sistema de Inventario\obj\Debug\Sistema de Inventario.exe
+C:\Users\Eliab Evora\Desktop\DesarrolloP\DesarrolloSoftware\Repositorio\Sistema de Inventario\obj\Debug\Sistema de Inventario.pdb
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\clone de GitHub\28-03\DesarrolloSoftware\Repositorio\Sistema de Inventario\obj\Debug\Sistema de Inventario.csprojAssemblyReference.cache
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\clone de GitHub\28-03\DesarrolloSoftware\Repositorio\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Categoria.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\clone de GitHub\28-03\DesarrolloSoftware\Repositorio\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Compras.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\clone de GitHub\28-03\DesarrolloSoftware\Repositorio\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Inicio.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\clone de GitHub\28-03\DesarrolloSoftware\Repositorio\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Inventario.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\clone de GitHub\28-03\DesarrolloSoftware\Repositorio\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Menu.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\clone de GitHub\28-03\DesarrolloSoftware\Repositorio\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Producto.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\clone de GitHub\28-03\DesarrolloSoftware\Repositorio\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Properties.Resources.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\clone de GitHub\28-03\DesarrolloSoftware\Repositorio\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Proveedores.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\clone de GitHub\28-03\DesarrolloSoftware\Repositorio\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Ventas.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\clone de GitHub\28-03\DesarrolloSoftware\Repositorio\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.GenerateResource.cache
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\clone de GitHub\28-03\DesarrolloSoftware\Repositorio\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.CoreCompileInputs.cache
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\clone de GitHub\28-03\DesarrolloSoftware\Repositorio\Sistema de Inventario\obj\Debug\Sistema de Inventario.exe
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\clone de GitHub\28-03\DesarrolloSoftware\Repositorio\Sistema de Inventario\obj\Debug\Sistema de Inventario.pdb
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Proyecto Desarrollo\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe.config
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Proyecto Desarrollo\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Proyecto Desarrollo\Sistema de Inventario\bin\Debug\Sistema de Inventario.pdb
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Proyecto Desarrollo\Sistema de Inventario\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Proyecto Desarrollo\Sistema de Inventario\bin\Debug\Google.Protobuf.dll
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Proyecto Desarrollo\Sistema de Inventario\bin\Debug\MySql.Data.dll
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Proyecto Desarrollo\Sistema de Inventario\bin\Debug\Renci.SshNet.dll
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Proyecto Desarrollo\Sistema de Inventario\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Proyecto Desarrollo\Sistema de Inventario\bin\Debug\Google.Protobuf.xml
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Proyecto Desarrollo\Sistema de Inventario\bin\Debug\MySql.Data.xml
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Proyecto Desarrollo\Sistema de Inventario\bin\Debug\Renci.SshNet.xml
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Proyecto Desarrollo\Sistema de Inventario\obj\Debug\Sistema de Inventario.csprojAssemblyReference.cache
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Proyecto Desarrollo\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Categoria.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Proyecto Desarrollo\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Compras.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Proyecto Desarrollo\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Inicio.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Proyecto Desarrollo\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Inventario.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Proyecto Desarrollo\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Menu.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Proyecto Desarrollo\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Producto.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Proyecto Desarrollo\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Properties.Resources.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Proyecto Desarrollo\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Proveedores.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Proyecto Desarrollo\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Ventas.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Proyecto Desarrollo\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.GenerateResource.cache
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Proyecto Desarrollo\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.CoreCompileInputs.cache
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Proyecto Desarrollo\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.CopyComplete
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Proyecto Desarrollo\Sistema de Inventario\obj\Debug\Sistema de Inventario.exe
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Proyecto Desarrollo\Sistema de Inventario\obj\Debug\Sistema de Inventario.pdb
+C:\Users\Eliab Evora\Desktop\Proyecto Desarrollo 6\10 de Abril\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe.config
+C:\Users\Eliab Evora\Desktop\Proyecto Desarrollo 6\10 de Abril\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe
+C:\Users\Eliab Evora\Desktop\Proyecto Desarrollo 6\10 de Abril\Sistema de Inventario\bin\Debug\Sistema de Inventario.pdb
+C:\Users\Eliab Evora\Desktop\Proyecto Desarrollo 6\10 de Abril\Sistema de Inventario\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Eliab Evora\Desktop\Proyecto Desarrollo 6\10 de Abril\Sistema de Inventario\bin\Debug\Google.Protobuf.dll
+C:\Users\Eliab Evora\Desktop\Proyecto Desarrollo 6\10 de Abril\Sistema de Inventario\bin\Debug\MySql.Data.dll
+C:\Users\Eliab Evora\Desktop\Proyecto Desarrollo 6\10 de Abril\Sistema de Inventario\bin\Debug\Renci.SshNet.dll
+C:\Users\Eliab Evora\Desktop\Proyecto Desarrollo 6\10 de Abril\Sistema de Inventario\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Eliab Evora\Desktop\Proyecto Desarrollo 6\10 de Abril\Sistema de Inventario\bin\Debug\Google.Protobuf.xml
+C:\Users\Eliab Evora\Desktop\Proyecto Desarrollo 6\10 de Abril\Sistema de Inventario\bin\Debug\MySql.Data.xml
+C:\Users\Eliab Evora\Desktop\Proyecto Desarrollo 6\10 de Abril\Sistema de Inventario\bin\Debug\Renci.SshNet.xml
+C:\Users\Eliab Evora\Desktop\Proyecto Desarrollo 6\10 de Abril\Sistema de Inventario\obj\Debug\Sistema de Inventario.csprojAssemblyReference.cache
+C:\Users\Eliab Evora\Desktop\Proyecto Desarrollo 6\10 de Abril\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Categoria.resources
+C:\Users\Eliab Evora\Desktop\Proyecto Desarrollo 6\10 de Abril\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Compras.resources
+C:\Users\Eliab Evora\Desktop\Proyecto Desarrollo 6\10 de Abril\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Inicio.resources
+C:\Users\Eliab Evora\Desktop\Proyecto Desarrollo 6\10 de Abril\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Inventario.resources
+C:\Users\Eliab Evora\Desktop\Proyecto Desarrollo 6\10 de Abril\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Menu.resources
+C:\Users\Eliab Evora\Desktop\Proyecto Desarrollo 6\10 de Abril\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Producto.resources
+C:\Users\Eliab Evora\Desktop\Proyecto Desarrollo 6\10 de Abril\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Properties.Resources.resources
+C:\Users\Eliab Evora\Desktop\Proyecto Desarrollo 6\10 de Abril\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Proveedores.resources
+C:\Users\Eliab Evora\Desktop\Proyecto Desarrollo 6\10 de Abril\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Ventas.resources
+C:\Users\Eliab Evora\Desktop\Proyecto Desarrollo 6\10 de Abril\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.GenerateResource.cache
+C:\Users\Eliab Evora\Desktop\Proyecto Desarrollo 6\10 de Abril\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.CoreCompileInputs.cache
+C:\Users\Eliab Evora\Desktop\Proyecto Desarrollo 6\10 de Abril\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.CopyComplete
+C:\Users\Eliab Evora\Desktop\Proyecto Desarrollo 6\10 de Abril\Sistema de Inventario\obj\Debug\Sistema de Inventario.exe
+C:\Users\Eliab Evora\Desktop\Proyecto Desarrollo 6\10 de Abril\Sistema de Inventario\obj\Debug\Sistema de Inventario.pdb
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\10 de Abril\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe.config
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\10 de Abril\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\10 de Abril\Sistema de Inventario\bin\Debug\Sistema de Inventario.pdb
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\10 de Abril\Sistema de Inventario\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\10 de Abril\Sistema de Inventario\bin\Debug\Google.Protobuf.dll
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\10 de Abril\Sistema de Inventario\bin\Debug\MySql.Data.dll
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\10 de Abril\Sistema de Inventario\bin\Debug\Renci.SshNet.dll
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\10 de Abril\Sistema de Inventario\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\10 de Abril\Sistema de Inventario\bin\Debug\Google.Protobuf.xml
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\10 de Abril\Sistema de Inventario\bin\Debug\MySql.Data.xml
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\10 de Abril\Sistema de Inventario\bin\Debug\Renci.SshNet.xml
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\10 de Abril\Sistema de Inventario\obj\Debug\Sistema de Inventario.csprojAssemblyReference.cache
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\10 de Abril\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Categoria.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\10 de Abril\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Compras.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\10 de Abril\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Inicio.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\10 de Abril\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Inventario.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\10 de Abril\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Menu.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\10 de Abril\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Producto.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\10 de Abril\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Properties.Resources.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\10 de Abril\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Proveedores.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\10 de Abril\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Ventas.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\10 de Abril\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.GenerateResource.cache
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\10 de Abril\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.CoreCompileInputs.cache
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\10 de Abril\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.CopyComplete
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\10 de Abril\Sistema de Inventario\obj\Debug\Sistema de Inventario.exe
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\10 de Abril\Sistema de Inventario\obj\Debug\Sistema de Inventario.pdb
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe.config
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\Sistema de Inventario\bin\Debug\Sistema de Inventario.pdb
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\Sistema de Inventario\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\Sistema de Inventario\bin\Debug\Google.Protobuf.dll
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\Sistema de Inventario\bin\Debug\MySql.Data.dll
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\Sistema de Inventario\bin\Debug\Renci.SshNet.dll
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\Sistema de Inventario\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\Sistema de Inventario\bin\Debug\Google.Protobuf.xml
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\Sistema de Inventario\bin\Debug\MySql.Data.xml
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\Sistema de Inventario\bin\Debug\Renci.SshNet.xml
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\Sistema de Inventario\obj\Debug\Sistema de Inventario.csprojAssemblyReference.cache
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Categoria.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Compras.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Inicio.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Inventario.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Menu.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Producto.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Properties.Resources.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Proveedores.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Ventas.resources
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.GenerateResource.cache
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.CoreCompileInputs.cache
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.CopyComplete
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\Sistema de Inventario\obj\Debug\Sistema de Inventario.exe
+C:\Users\linda\Documents\PROYECTOS I PERIODO 2020\Desarrollo de Software Proyecto\Sistema de Inventario\obj\Debug\Sistema de Inventario.pdb
+C:\Users\Eliab Evora\Desktop\ProyectDesarrollo\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe.config
+C:\Users\Eliab Evora\Desktop\ProyectDesarrollo\Sistema de Inventario\bin\Debug\Sistema de Inventario.exe
+C:\Users\Eliab Evora\Desktop\ProyectDesarrollo\Sistema de Inventario\bin\Debug\Sistema de Inventario.pdb
+C:\Users\Eliab Evora\Desktop\ProyectDesarrollo\Sistema de Inventario\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Eliab Evora\Desktop\ProyectDesarrollo\Sistema de Inventario\bin\Debug\Google.Protobuf.dll
+C:\Users\Eliab Evora\Desktop\ProyectDesarrollo\Sistema de Inventario\bin\Debug\MySql.Data.dll
+C:\Users\Eliab Evora\Desktop\ProyectDesarrollo\Sistema de Inventario\bin\Debug\Renci.SshNet.dll
+C:\Users\Eliab Evora\Desktop\ProyectDesarrollo\Sistema de Inventario\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Eliab Evora\Desktop\ProyectDesarrollo\Sistema de Inventario\bin\Debug\Google.Protobuf.xml
+C:\Users\Eliab Evora\Desktop\ProyectDesarrollo\Sistema de Inventario\bin\Debug\MySql.Data.xml
+C:\Users\Eliab Evora\Desktop\ProyectDesarrollo\Sistema de Inventario\bin\Debug\Renci.SshNet.xml
+C:\Users\Eliab Evora\Desktop\ProyectDesarrollo\Sistema de Inventario\obj\Debug\Sistema de Inventario.csprojAssemblyReference.cache
+C:\Users\Eliab Evora\Desktop\ProyectDesarrollo\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Categoria.resources
+C:\Users\Eliab Evora\Desktop\ProyectDesarrollo\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Compras.resources
+C:\Users\Eliab Evora\Desktop\ProyectDesarrollo\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Inicio.resources
+C:\Users\Eliab Evora\Desktop\ProyectDesarrollo\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Inventario.resources
+C:\Users\Eliab Evora\Desktop\ProyectDesarrollo\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Menu.resources
+C:\Users\Eliab Evora\Desktop\ProyectDesarrollo\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Producto.resources
+C:\Users\Eliab Evora\Desktop\ProyectDesarrollo\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Properties.Resources.resources
+C:\Users\Eliab Evora\Desktop\ProyectDesarrollo\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Proveedores.resources
+C:\Users\Eliab Evora\Desktop\ProyectDesarrollo\Sistema de Inventario\obj\Debug\Sistema_de_Inventario.Ventas.resources
+C:\Users\Eliab Evora\Desktop\ProyectDesarrollo\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.GenerateResource.cache
+C:\Users\Eliab Evora\Desktop\ProyectDesarrollo\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.CoreCompileInputs.cache
+C:\Users\Eliab Evora\Desktop\ProyectDesarrollo\Sistema de Inventario\obj\Debug\Sistema de Inventario.csproj.CopyComplete
+C:\Users\Eliab Evora\Desktop\ProyectDesarrollo\Sistema de Inventario\obj\Debug\Sistema de Inventario.exe
+C:\Users\Eliab Evora\Desktop\ProyectDesarrollo\Sistema de Inventario\obj\Debug\Sistema de Inventario.pdb
